@@ -1,1 +1,1 @@
-# SkillFacory
+# SkillFactory
